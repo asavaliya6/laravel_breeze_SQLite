@@ -19,11 +19,9 @@ class DatabaseSeeder extends Seeder
             'name' => 'Test User',
             'email' => 'test@example.com',
         ]);
-<<<<<<< HEAD
 
         $this->call(AdminSeeder::class); 
 
-=======
->>>>>>> 1c22fb810f232950362cc76309ba93ebb4ae1bc0
+
     }
 }
