@@ -1,6 +1,7 @@
 <?php
 
 use App\Http\Controllers\ProfileController;
+use App\Http\Controllers\PostController;
 use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
@@ -30,5 +31,9 @@ Route::middleware('auth')->group(function () {
         Route::resource('posts', \App\Http\Controllers\PostController::class);
     });
 });
+
+    Route::name('posts.')->group(function () {
+        Route::post('/store', [PostController::class, 'store'])->name('store');
+    });
 
 require __DIR__.'/auth.php';
