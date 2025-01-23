@@ -5,6 +5,7 @@
         "This file is @generated automatically"
     ],
     "content-hash": "7600d6b2398dff14ab58f692caa87f65",
+
     "packages": [
         {
             "name": "brick/math",
@@ -5800,6 +5801,7 @@
     ],
     "packages-dev": [
         {
+<<<<<<< HEAD
             "name": "barryvdh/laravel-debugbar",
             "version": "v3.14.10",
             "source": {
@@ -5884,6 +5886,8 @@
             "time": "2024-12-23T10:10:42+00:00"
         },
         {
+=======
+>>>>>>> 1c22fb810f232950362cc76309ba93ebb4ae1bc0
             "name": "fakerphp/faker",
             "version": "v1.24.1",
             "source": {
@@ -6069,6 +6073,7 @@
             "time": "2020-07-09T08:09:16+00:00"
         },
         {
+<<<<<<< HEAD
             "name": "laravel/breeze",
             "version": "v2.3.2",
             "source": {
@@ -6130,6 +6135,8 @@
             "time": "2025-01-21T14:57:42+00:00"
         },
         {
+=======
+>>>>>>> 1c22fb810f232950362cc76309ba93ebb4ae1bc0
             "name": "laravel/pail",
             "version": "v1.2.1",
             "source": {
@@ -6337,6 +6344,7 @@
             "time": "2025-01-13T16:57:11+00:00"
         },
         {
+<<<<<<< HEAD
             "name": "maximebf/debugbar",
             "version": "v1.23.5",
             "source": {
@@ -6405,6 +6413,8 @@
             "time": "2024-12-15T19:20:42+00:00"
         },
         {
+=======
+>>>>>>> 1c22fb810f232950362cc76309ba93ebb4ae1bc0
             "name": "mockery/mockery",
             "version": "1.6.12",
             "source": {
