@@ -26,3 +26,34 @@ php artisan make:controller CategoryController --resource --model=Category
 ```
 composer require barryvdh/laravel-debugbar --dev
 ```
+
+## Summary of this lesson:
+
+- Understanding starter kits for authentication
+- Installing and configuring Laravel Breeze
+- Managing authentication routes
+- Setting up user dashboard
+- Understanding factories and seeders
+- Creating admin user with migrations
+- Using database seeders
+- Managing user roles
+- Implementing resource controllers
+- Creating CRUD operations for categories
+- Managing form submissions
+- Handling route model binding
+- Understanding middleware concept
+- Creating custom admin middleware
+- Implementing route groups
+- Managing user authorization
+- Implementing Eloquent relationships
+- Understanding N+1 query problem
+- Using Laravel Debugbar
+- Managing eager loading
+- Implementing form validation rules
+- Using Form Request classes
+- Displaying validation errors
+- Handling form submissions
+- Reviewing Laravel fundamentals
+- Understanding learning roadmap
+- Suggesting next steps
+- Exploring additional resources
